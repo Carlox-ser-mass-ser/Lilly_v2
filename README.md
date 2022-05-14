@@ -1,20 +1,20 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+PIKACHU+WA+BOT+REPO.;CREATED+BY+AMEER+SUHAIL;THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+LILLY_V2+WA+BOT+REPO.;CREATED+BY+AMEER+SUHAIL;THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/SoIxkUE.jpeg" width="300" height="300"/>
   <p align="center">
-<a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="LILLY_V2" src="https://img.shields.io/badge/LILLY_V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-AmeerSuhail-0/Pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-CARLOX & MASS-SER-0/LILLY_V2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumthodi</a> to make it public
+Project created by <a href="https://github.com/Carlox-ser-mass-ser/LILLY_V2">CARLOX & MASS-SER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -26,9 +26,9 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumth
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ameer-kallumthodi/Pikachu-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ameer-kallumthodi/pikachu-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Carlox-ser-mass-ser/LILLY_V2)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -39,38 +39,37 @@ bash <(curl -L https://t.ly/tHxh)
   
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
 
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@ameer-kallumthodi/Pikachu-QR?v=1)
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@ameer-kallumthodi/pikachu-QR?v=1)
  
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/ameer-kallumthodi/pikachu/fork)
+ Click [FORK](https://github.com/Carlox-ser-mass-ser/LILLY_V2/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu copy this url and change ameer-kallumthodi with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Carlox-ser-mass-ser/LILLY_V2 copy this url and changeCarlox-ser-mass-ser with your github username and click go<br>
 
 ----
 
-<h3 align="center">Contact Me:</h3>
+<h3 align="center">Contact Me Carlox➬</h3>
 <p align="center">
-<a href="https://instagram.com/ameer_.su_hail" target="blank"><img align="center" src="https://i.imgur.com/abRLc29.png" alt="kyrie.baran" height="80" width="160" /></a>
+<a href="https://instagram.com/__carlox.__" target="blank"><img align="center" src="https://i.imgur.com/abRLc29.png" alt="kyrie.baran" height="80" width="160" /></a>
 </p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
+<h4 align="center">Contact Me Mass-Ser➬</h3>
 <p align="center">
-<a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
-</p>
+<a href="https://instagram.com/a_b_i_n.ps" target="blank"><img align="center" src="https://i.imgur.com/abRLc29.png" alt="kyrie.baran" height="80" width="160" /></a>
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
+  <a href="httsp://github.com/Carlox-ser-mass-ser/LILLY_V2">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/Carlox-ser-mass-ser/followers"><img title="Followers" src="https://img.shields.io/github/followers/Carlox-ser-mass-ser?color=Magenta&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://i.imgur.com/reMlxoc.png)](http://wa.me/+919946432377)
+  [![join](https://i.imgur.com/reMlxoc.png)](https://chat.whatsapp.com/B8u9lyKbVcD2aSjJFiEwu3)
   <div align="center">
        
   </div>
@@ -81,8 +80,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/Carlox-ser-mass-ser/LILLY_V2
+$ cd LILLY_V2
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -91,8 +90,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/Carlox-ser-mass-ser/LILLY_V2
+$ cd LILLY_V2
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -112,9 +111,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Ameer Suhail`](https://github.com/ameer-kallumthodi.png?size=200)](https://github.com/ameer-kallumthodi)
+  [![`CARLOX & MASS-SER`](https://github.com/ameer-kallumthodi.png?size=200)](https://github.com/Carlox-ser-mass-ser)
 
-[`Ameer Suhail`](https://github.com/ameer-kallumthodi)  
+[`CARLOX & MASS-SER`](https://github.com/Carlox-ser-mass-ser)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
