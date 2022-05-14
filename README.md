@@ -5,7 +5,7 @@
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/SoIxkUE.jpeg" width="300" height="300"/>
+  <img border-radius: 15px src="https://i.imgur.com/XSASjM4.jpeg.jpeg" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title="LILLY_V2" src="https://img.shields.io/badge/LILLY_V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
