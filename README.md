@@ -111,7 +111,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`CARLOX & MASS-SER`](https://github.com/ameer-kallumthodi.png?size=200)](https://github.com/Carlox-ser-mass-ser)
+  [![`CARLOX & MASS-SER`](https://github.com/carlox-mass-ser.png?size=200)](https://github.com/Carlox-ser-mass-ser)
 
 [`CARLOX & MASS-SER`](https://github.com/Carlox-ser-mass-ser)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
