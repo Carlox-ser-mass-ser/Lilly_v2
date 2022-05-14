@@ -51,11 +51,11 @@ bash <(curl -L https://t.ly/tHxh)
 
 ----
 
-<h3 align="center">Contact Me Carlox➬</h3>
+<h3 align="center">Contact Me On instagram Carlox➬</h3>
 <p align="center">
 <a href="https://instagram.com/__carlox.__" target="blank"><img align="center" src="https://i.imgur.com/abRLc29.png" alt="kyrie.baran" height="80" width="160" /></a>
 </p>
-<h4 align="center">Contact Me Mass-Ser➬</h3>
+<h4 align="center">Contact Me On instagram Mass-Ser➬</h3>
 <p align="center">
 <a href="https://instagram.com/a_b_i_n.ps" target="blank"><img align="center" src="https://i.imgur.com/abRLc29.png" alt="kyrie.baran" height="80" width="160" /></a>
 
